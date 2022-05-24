@@ -1,0 +1,14 @@
+.div{
+  width: 100%;
+    height: 45.5vw;
+    background-image: url("../../images/different-weathers.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
